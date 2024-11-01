@@ -1,0 +1,46 @@
+
+.postbox {
+	margin: 10px 10px 0 0;	
+}
+
+.postbox .inside p, .postbox .inside label, .postbox .inside li, .postbox .inside a {
+	font-size: 12px;
+}
+
+.textinput, .select, .checkbox, label.textinput, label.select, label.text {
+	float: left;
+	margin: 5px 10px 5px 0;
+	line-height: 12px;
+}
+text.textinput {
+	margin-top: 0px;
+}
+
+.textinput, .select {
+	width: 400px;
+}
+
+.textinput.metadesc {
+	height: 50px;	
+}
+label.textinput, label.select, label.text {
+	width: 200px;
+}
+
+.text5 {
+	float: left;
+	margin: 5px 10px 5px 0;
+	line-height: 12px;
+	padding-bottom: 10px;
+}
+
+.text5 {
+	float: left;
+	margin: 5px 10px 5px 0;
+	line-height: 12px;
+	padding-bottom: 10px;
+}
+
+.text {
+	width: 250px;
+}

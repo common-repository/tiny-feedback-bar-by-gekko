@@ -1,0 +1,21 @@
+/* CSS Document */
+
+/*	
+	What is this file for?
+	Need specific settings for the theme of this site?
+	Use the classes that we've specified here of copy 
+	the name of the class you want to change and give it 
+	the exact properties you need for this site.
+*/
+
+/*	
+	This is the div that floats over the entire page.
+	If you get a horizontal scrollbar in the screen due
+	to Tiny Feedback Bar change the width of this div.
+	In some cases we've seen this div trigger a 
+	scrollbar.
+	Set the width to 96% percent to prevent the scrollbar.
+*/
+.context-menu-one {
+	/*width: 96%;*/
+}
